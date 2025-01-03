@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../icons"
+		},
+		{
+			"path": "../IONIcon"
+		},
+		{
+			"path": "../IONIcon 2"
+		},
+		{
+			"path": "../IONIcon 3"
+		},
+		{
+			"path": "../List"
+		},
+		{
+			"path": "../untitled folder 2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "პროექტი"
+	}
+}
